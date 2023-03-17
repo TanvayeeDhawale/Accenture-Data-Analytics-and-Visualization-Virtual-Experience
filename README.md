@@ -72,3 +72,6 @@ can learn something from.
 Data Cleaning, Data Modeling, Data Analysing according to business needs, Data Visualization and Presentation, Advanced Excel.
 
 ## Completion Certificate
+
+![](https://user-images.githubusercontent.com/102014569/225937691-cdca24fa-72f4-4480-bc5c-48590430a45c.png)
+
