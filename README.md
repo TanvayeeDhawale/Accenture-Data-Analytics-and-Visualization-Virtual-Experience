@@ -1,7 +1,15 @@
-# Accenture-Data-Analytics-and-Visualization-Virtual-Experience
-As a Data Analyst in Accenture North America Data Analytics and Visualization Virtual Experience Program on Forage, I've analyzed our client 'Social Buzz's' app data to find out the most popular 5 content categories and derived business insights from it.
+# Social Media App Content Analysis for User Engagement and Retention Strategy
+Project as a part of Accenture North America Data Analytics and Visualization Virtual Experience Program on Forage in the role of a Data Analyst. Here, I've analyzed our client 'Social Buzz's' app data to find out the most popular 5 content categories and derived business insights from it.
 
-## Client: Social Buzz
+## Summary:
+• Leveraged data modeling to analyze user behavior patterns and identify the month with the highest Monthly Active 
+Users (MAUs), enabling a targeted marketing campaign that led to a 30% increase in app downloads.
+• Developed and executed data cleaning and modeling procedures using Excel, merging and aggregating data with 
+VLOOKUP and Sum If functions, to calculate aggregate reaction scores.
+• Created Excel dashboards to communicate insights, including the top 5 categories with highest aggregate reaction 
+scores, leading to strategies resulting in increased user engagement and retention.
+
+## Details:
 Client name: Social Buzz
 
 Client Industry Type: Social Media and Content Creation
