@@ -3,9 +3,9 @@ Project as a part of Accenture North America Data Analytics and Visualization Vi
 
 ## Summary:
 • Leveraged data modeling to analyze user behavior patterns and identify the month with the highest Monthly Active 
-Users (MAUs), enabling a targeted marketing campaign that led to a 30% increase in app downloads.
+Users (MAUs), enabling a targeted marketing campaign that led to a 30% increase in app downloads. 
 • Developed and executed data cleaning and modeling procedures using Excel, merging and aggregating data with 
-VLOOKUP and Sum If functions, to calculate aggregate reaction scores.
+VLOOKUP and Sum If functions, to calculate aggregate reaction scores. 
 • Created Excel dashboards to communicate insights, including the top 5 categories with highest aggregate reaction 
 scores, leading to strategies resulting in increased user engagement and retention.
 
